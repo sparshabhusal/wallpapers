@@ -6,7 +6,7 @@ I dont claim ownership or anything for this !
 To download the wallpapers, simply copy the git and open the dir and choose your favourite wallpaper
 Or, for the lazy people , heres the commands :
 
-               cd Downloads
-               git clone https://github.com/sparshabhusal/wallpapers.git
+    cd Downloads
+    git clone https://github.com/sparshabhusal/wallpapers.git
               
 simply , open any wallpaper with the image viewer and click the "set as background" button and apply
